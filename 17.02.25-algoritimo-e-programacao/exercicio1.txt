@@ -1,0 +1,34 @@
+## Identifique a entrada processamento e as saidas do algoritimo ## 
+
+	INICIO
+		Receba código da peça
+		Receba valor da peça
+		Receba Quantidade de peças
+		Calcule o valor total da peça ( Quantidade * Valor da peça )
+		Mostre o código da peça e seu valor total
+	FIM
+
+R: Entradas *Receba's*, processamento *Calcule*, saida *Mostre*
+
+## Faça um algoritimo para "Calcular o estoque médio de uma peça" ##
+- ESTOQUE_MEDIO = ( QNT_MINIMA + QNT_MAXIMA ) / 2
+
+R: 
+1. Receba a quantidade minima
+
+2. receba a quantidade maxima
+
+3. Calcule o estoque medio - ( QNT_MINIMA + QNT_MAXIMA ) / 2
+
+4. Mostre a peça e seu estoque medio
+
+RESPOSTA FINAL:
+	INICIO
+		Receba a quantidade minima
+		Receba a quantidade maxima
+		SE quantidade maxima > 0
+			ESTOQUE_MEDIO = ( QTD_MINIMA + QTD_MAXIMA ) / 2
+			Escreva("ESTOQUE_MEDIO")
+		SENÃO
+			Escreva("A quantidade maxima deve ser maior que zero")
+

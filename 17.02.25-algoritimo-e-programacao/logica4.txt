@@ -1,0 +1,11 @@
+## Escreva um algoritimo para trocar uma lampada ##
+
+1. Compre a lampada nova
+
+2. Desligue a energia
+
+3. Remova a lampada velha
+
+4. Coloque a lampada nova
+
+5. Descarte corretamente a lampada velha

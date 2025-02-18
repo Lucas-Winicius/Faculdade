@@ -1,0 +1,9 @@
+## Escreva um algoritimo para trocar uma torneira ##
+
+1. Desligue o registro
+
+2. Remova a torneira velha
+
+3. Coloque a nova
+
+4. Ligue o registro

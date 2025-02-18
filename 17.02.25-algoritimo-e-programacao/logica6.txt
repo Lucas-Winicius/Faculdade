@@ -1,0 +1,11 @@
+## escreva um algoritimo para sacar dinheiro do caixa eletronico ##
+
+1. Insira o cartão
+
+2. Insira a senha
+
+3. Digite o valor a ser sacado
+
+4. Pegue o dinheiro
+
+5. Guarde o cartão

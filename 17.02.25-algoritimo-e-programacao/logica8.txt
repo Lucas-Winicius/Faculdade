@@ -1,0 +1,7 @@
+## Escreva um algoritimo para calcular o IMC ##
+
+1. Pegue o peso e altura
+
+2. Calcule a altura ao quadrado
+
+3. Divida pelo peso

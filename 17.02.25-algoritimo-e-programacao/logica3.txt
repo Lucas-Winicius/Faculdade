@@ -1,0 +1,9 @@
+## Escreva um algoritimo para calcular a area de um triangulo ##
+
+1. Medir altura
+
+2. Medir comprimento
+
+3. Multiplicar base pela altura
+
+4. Dividir por 2

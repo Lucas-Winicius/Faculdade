@@ -1,0 +1,23 @@
+## Escreva um algoritimo para trocar um pneu do carro ##
+
+1. Verificar ser o portamalas está aberto
+
+2. Abrir porta malas
+
+3. Pegar chave de rodas e macaco
+
+4. Soltar parafusos do pneu
+
+5. Levantar o carro
+
+6. Remover o pneu
+
+7. Pegar o Step
+
+8. Trocar o pneu furado pelo step
+
+9. Prender os parafusos do pneu
+
+10. Guardar a chave de roddas e macaco
+
+11. Guardar pneu furado

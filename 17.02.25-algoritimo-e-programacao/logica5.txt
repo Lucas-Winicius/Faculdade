@@ -1,0 +1,21 @@
+## Escreva um algoritimo para trocar a resistencia de um chuveiro ##
+
+1. Desligue o djuntor do chuveiro
+
+2. Abra a tampa inferior do chuveiro
+
+3. Remova a resistencia antiga
+
+4. Coloque a resistencia nova
+
+5. Feche o chuveiro
+
+6. Desligue o chuveiro
+
+7. Ligue o djuntor
+
+8. Ligue o registro da agua
+
+9. Desligue a agua
+
+10. Ligue o chuveiro
