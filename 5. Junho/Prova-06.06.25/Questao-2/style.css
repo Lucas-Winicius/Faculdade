@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+    
+}
+h1{
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bolder;
+ color: purple;
+
+}
+.destaque{
+    color: red;
+    font-weight: bolder;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
+article{
+    padding: 20px;
+}
