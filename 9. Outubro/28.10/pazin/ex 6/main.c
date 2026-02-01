@@ -11,7 +11,7 @@ int main()
     {
         for (int j = 0; j < COLUNA; j++)
         {
-            if ((j > i) == 0)
+            if ((j > i))
             {
                 printf("\nPosicao [%d][%d]: ", i, j);
                 scanf("%d", &matriz[i][j]);
